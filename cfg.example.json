@@ -1,0 +1,13 @@
+{
+    "webhook_url":"your webhook URL",
+    "users": [
+        "add",
+        "one",
+        "or",
+        "more",
+        "users",
+        "to",
+        "track",
+        "here"
+    ]
+}
