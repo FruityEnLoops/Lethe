@@ -1,5 +1,13 @@
 # Lethe
 
+
+# Important
+
+This project has been archived due to Twitter changing their API. This does not work anymore, and probably never will unless you have a paid subscription.
+Twitter, f you.
+
+# Original Readme
+
 A Twitter bot to trigger a webhook when a new tweet is sent by a user, using  `twit` and `node-fetch`.
 
 You may modify the `body` to customize what is being set to the webhook. Currently, it sends the link to the tweet, with the username and profile picture of the user.
